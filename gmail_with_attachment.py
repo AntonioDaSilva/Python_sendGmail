@@ -1,3 +1,5 @@
+# AntonioDaSilva 18.05.2017
+
 import smtplib, os
 from email.mime.multipart import MIMEMultipart
 from email.mime.base import MIMEBase
